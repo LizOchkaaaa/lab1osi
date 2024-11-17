@@ -1,0 +1,148 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "source",
+					"jsonFile" : "directory-source-Debug-be4710394502bfacce20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "source",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "monolith",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Bin::@411ffd8adc737496fe19",
+					"jsonFile" : "target-Bin-Debug-b76bcd330ba3ff1cca24.json",
+					"name" : "Bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "BinSearch::@411ffd8adc737496fe19",
+					"jsonFile" : "target-BinSearch-Debug-0d165235043e589f7b88.json",
+					"name" : "BinSearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Bin_OPT::@411ffd8adc737496fe19",
+					"jsonFile" : "target-Bin_OPT-Debug-4d518856def7bfc5d64b.json",
+					"name" : "Bin_OPT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "IO::@411ffd8adc737496fe19",
+					"jsonFile" : "target-IO-Debug-82758dac0855b0f6fcd4.json",
+					"name" : "IO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "IOThptWright::@411ffd8adc737496fe19",
+					"jsonFile" : "target-IOThptWright-Debug-c723de9ae5c40e4db33c.json",
+					"name" : "IOThptWright",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "IO_OPT::@411ffd8adc737496fe19",
+					"jsonFile" : "target-IO_OPT-Debug-3582915a508f83d90897.json",
+					"name" : "IO_OPT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "monolith::@411ffd8adc737496fe19",
+					"jsonFile" : "target-monolith-Debug-a17f7c03418cc198d704.json",
+					"name" : "monolith",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "monolith-app::@411ffd8adc737496fe19",
+					"jsonFile" : "target-monolith-app-Debug-ae8ba3872ffe27c9e40e.json",
+					"name" : "monolith-app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "run_IO::@411ffd8adc737496fe19",
+					"jsonFile" : "target-run_IO-Debug-8656075ceab092b8cc78.json",
+					"name" : "run_IO",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug",
+		"source" : "C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

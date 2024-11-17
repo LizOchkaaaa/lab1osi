@@ -1,0 +1,13 @@
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/IO.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/run_IO.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/IOThptWright.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/IO_OPT.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/Bin.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/Bin_OPT.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/BinSearch.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/monolith.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/monolith-app.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/edit_cache.dir
+C:/Users/eliza/CLionProjects/diy-shell-benchmark-24y-LizOchkaaaa/cmake-build-debug/source/CMakeFiles/rebuild_cache.dir

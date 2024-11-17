@@ -1,0 +1,1 @@
+.\run_benchmark_parallel.ps1 -NumInstances 2 -OutputLogDir "bin" -BinSearchProgram "..\..\cmake-build-debug\source\Bin.exe" -BinSearchParam "1000"

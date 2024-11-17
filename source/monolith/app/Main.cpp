@@ -1,18 +1,15 @@
 #include <iostream>
 
-#include "monolith/HelloWorld.hpp"
+#include "monolith/console/Console.hpp"
 
 namespace monolith::app {
-
-namespace {
-
 void Main() {
-  std::cout << HelloWorld() << '\n';
+  CommandFactory factory(nullptr);
+  Console console(factory);
+  factory.SetConsole(&console);
+  console.StartProcess();
+  }
 }
-
-}  // namespace
-
-}  // namespace monolith::app
 
 int main() {
   monolith::app::Main();
